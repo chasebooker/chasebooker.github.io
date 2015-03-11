@@ -18,7 +18,12 @@ p {
 	position: fixed;
 	bottom: 5%;
 	right: 5%;
+	transition: transform 20s;
 }
+/*
+#moon:hover {
+	transform: rotate(720deg);
+}*/
 
 #container {
 	position: fixed;
