@@ -1,5 +1,7 @@
 body {
-	background-image: url("stars.jpg");
+	background-image: url("pigeon.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
 	background-color: black;
 }
 
@@ -11,7 +13,7 @@ p {
 }
 
 .coverup {
-	color: black;
+	opacity: 0;
 }
 
 #moon {
